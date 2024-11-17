@@ -1,0 +1,5 @@
+Multiple Disease Prediction 
+
+streamlit run '/Users/visakh/Documents/Visakh/Study/ML_Projects/Projects/Multiple Disease Prediction/prediction.py'
+
+  
